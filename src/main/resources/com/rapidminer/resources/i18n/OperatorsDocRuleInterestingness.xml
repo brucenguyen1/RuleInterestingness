@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<operatorHelp lang="en_EN">
+
+	<group>
+		<key>data_transformation</key>
+		<name>Data Transformation</name>
+	</group>
+   <operator>
+	  <name>RuleInterestingness</name>
+	  <synopsis>Compute rule interestingness measures for mined rules</synopsis>
+	  <help>Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help Help </help>
+   </operator>
+</operatorHelp>

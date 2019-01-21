@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="template" version="5.0" docbundle="com/rapidminer/resources/i18n/OperatorsDocRuleInterestingness">
+   <group key="">
+      <group key="data_transformation">
+         <operator>
+            <key>rule_interestingness</key>
+            <class>com.rapidminer.RuleInterestingnessOperator</class>
+            <replaces>RuleInterestingnessOperator</replaces>
+         </operator>
+      </group>
+   </group>
+</operators>
